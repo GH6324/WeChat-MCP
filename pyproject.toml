@@ -47,6 +47,3 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/wechat_mcp"]
-
-[tool.hatch.build]
-packages = ["src/wechat_mcp"]

@@ -1,6 +1,6 @@
 [project]
 name = "wechat-mcp-server"
-version = "0.1.0"
+version = "0.2.0"
 description = "WeChat MCP server for reading and replying to messages via macOS Accessibility APIs"
 readme = "README.md"
 requires-python = ">=3.12"
